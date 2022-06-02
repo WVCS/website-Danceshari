@@ -2,7 +2,7 @@
 <div class="w3-sidebar w3-khaki w3-bar-block" style="width:25%">
   <h3 class="w3-bar-item">My Projects</h3>
   <a href="onevent" class="w3-bar-item w3-button">On Event APP</a>
-  <a href="#" class="w3-bar-item w3-button">Partner digital design </a>
+  <a href="digitaldesign" class="w3-bar-item w3-button">Partner digital design </a>
   <a href="#" class="w3-bar-item w3-button">Conditional APP</a>
   <a href="#" class="w3-bar-item w3-button">Data-set APP</a>
 </div>
