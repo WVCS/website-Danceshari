@@ -1,17 +1,18 @@
-body { 
-  background-color: pink;
+.header {
+ background-color: pink; 
 }
 
 h2 { 
   color: #000000;
   text-align: center;
-} 
-p {
   font-family: serif;
   font-size: 20px;
-}
+} 
 
-p.double {
-  border-style: double;
+.navbar a {
+  float: center;
+  display: block;
+  color: khakhi;
+  tex-align: left;
+  text-decordation: Arial;
 }
-
