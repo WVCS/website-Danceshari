@@ -6,3 +6,4 @@
   <a href="conditionalapp.html" class="w3-bar-item w3-button">Conditional APP</a>
   <a href="datasetapp.html" class="w3-bar-item w3-button">Data-set APP</a>
 </div>
+text-align:none;
