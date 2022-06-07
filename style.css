@@ -15,6 +15,7 @@ h2 {
   color: yellow;
   tex-align: center;
   text-decordation: Arial;
+}
  ul {
   list-style-type: none;
 padding-top: 50px;
@@ -22,4 +23,4 @@ padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 80px;
 }
-}
+
