@@ -1,7 +1,8 @@
 body { 
-  background-color: hsla(0, 100%, 50%, 0.3);}
+  background-color: pink;
+}
 
-h2 { 
+h1 { 
   color: #000000;
   text-align: center;
   font-family: serif;
@@ -9,25 +10,20 @@ h2 {
   padding: 20px;
 } 
 
-.topnav {
+li a{
   overflow: hidden;
   background-color: #FF3CC7;
 }
 
-.topnav {
+ li a{
   float: left;
   display: block;
   color: #F0F600;
   tex-align: center;
   padding: 14px 16px;
   text-decordation: none;
-  list-style-type: none
 }
  ul {
   list-style-type: none;
-padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
 }
 
