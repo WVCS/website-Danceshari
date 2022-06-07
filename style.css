@@ -21,12 +21,22 @@ li a{
  li a{
   float: left;
   display: block;
-  color: #F01600;
-  tex-align: center;
-  padding: 14px 16px;
+  color: white;
   text-decordation: none;
+   padding: 15px 50px;
 }
- ul {
+ 
+ul {
   list-style-type: none;
 }
 
+nav{
+  list-style: none;
+  background-color: #FFD131;
+  width: 100%;
+  overlow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin: 0'
+}
