@@ -9,12 +9,18 @@ h2 {
   padding: 20px;
 } 
 
-.navbar a {
-  float: center;
+.topnav {
+  overflow: hidden;
+  background-color: #FF3CC7;
+}
+
+.topnav {
+  float: left;
   display: block;
-  color: yellow;
+  color: #F0F600;
   tex-align: center;
-  text-decordation: Arial;
+  padding: 14px 16px;
+  text-decordation: none;
 }
  ul {
   list-style-type: none;
