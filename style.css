@@ -13,6 +13,10 @@ h2 {
   float: center;
   display: block;
   color: khakhi;
-  tex-align: left;
+  tex-align:ceneter;
   text-decordation: Arial;
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
