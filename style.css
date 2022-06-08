@@ -1,11 +1,9 @@
 body { 
   background-color: pink;
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h2 { 
   color: #000000;
-  font-family: "Lucida Console", "Courier New", monospace;
   text-align: center;
   padding: 20px;
 } 
